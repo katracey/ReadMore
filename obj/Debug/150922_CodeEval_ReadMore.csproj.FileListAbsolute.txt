@@ -1,0 +1,15 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\bin\Debug\150922_CodeEval_ReadMore.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\bin\Debug\150922_CodeEval_ReadMore.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\bin\Debug\150922_CodeEval_ReadMore.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\bin\Debug\150922_CodeEval_ReadMore.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\bin\Debug\150922_CodeEval_ReadMore.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\bin\Debug\150922_CodeEval_ReadMore.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\bin\Debug\150922_CodeEval_ReadMore.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150922_CodeEval_ReadMore\150922_CodeEval_ReadMore\obj\Debug\150922_CodeEval_ReadMore.pdb
